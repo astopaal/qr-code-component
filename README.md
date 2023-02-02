@@ -7,6 +7,19 @@
 
 ### Links
 
-README dosyasını düzenliyorum....
+- Live Site URL: [](https://astopaal.github.io/qr-code-component/)
 
-- Live Site URL: [](https://your-live-site-url.com)
+### Built with
+
+- HTML
+- Tailwind CSS
+- Flexbox
+
+### What I learned
+
+I learned how to deploy a project on github pages and I improved my tailwind css skills while working on this project.
+
+## Author
+
+- Frontend Mentor - [@astopaal](https://www.frontendmentor.io/profile/astopaal)
+- Twitter - [@sametdotjs](https://www.twitter.com/sametdotjs)
