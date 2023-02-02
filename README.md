@@ -7,7 +7,7 @@
 
 ### Links
 
-- Live Site URL: [](https://astopaal.github.io/qr-code-component/)
+- Live Site URL: [https://astopaal.github.io/qr-code-component/](https://astopaal.github.io/qr-code-component/)
 
 ### Built with
 
